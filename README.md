@@ -1,5 +1,3 @@
-# rails-girls-2016
-Repositorio tutorial do git
+# rails-girls-2016 Repositorio tutorial do git 
 
-
-LUANE LIMA MAGALHAE
+LUANE LIMA MAGALHAES
